@@ -1,0 +1,14 @@
+2024-11-1
+Crack leetcode common problems:
+1. sorting
+2. numbers
+
+Perfer python to resolve problems, be pythnic.
+
+methods:
+1. divide & conquer (d&c)
+2. dynamic proramming (dp) - must 
+3. back-tracking
+4. recursive
+5. brute force (bad)
+
