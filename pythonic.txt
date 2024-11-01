@@ -1,0 +1,11 @@
+Zen of python
+2024-11-1
+
+1. Beautiful is over ugly
+2. Clear is over obscurity
+3. Simple is over complex
+4. Flat is over disorder
+5. Space is over compact
+6. Readability is important
+
+According to Songtao Hu's Explained Leetcode Beginner's quizs
