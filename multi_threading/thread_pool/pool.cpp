@@ -60,6 +60,7 @@ private:
 	bool stop;
 };
 
+#if false
 int main() {
 	ThreadPool pool(4);
 	for (int i = 0; i < 10; ++i) {
@@ -72,3 +73,4 @@ int main() {
 
 	return 0;
 }
+#endif
