@@ -129,8 +129,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="container_t0.cpp" />
     <ClCompile Include="functional_t.cpp" />
+    <ClCompile Include="move_t0.cpp" />
+    <ClCompile Include="rightvalue_t0.cpp" />
     <ClCompile Include="smart_ptr_t.cpp" />
+    <ClCompile Include="template_t0.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

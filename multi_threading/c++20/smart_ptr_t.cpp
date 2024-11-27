@@ -91,6 +91,7 @@ void test_sharedptr() {
 	cout << "School use count = " << university.use_count() << endl;
 }
 
+#if false
 int main() {
 	thread t1(foo);
 	t1.join();
@@ -103,3 +104,4 @@ int main() {
 
 	return 0;
 }
+#endif
